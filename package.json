@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Building my Backend journey",
+  "keywords": [
+    "JavaScript",
+    "and",
+    "Backend"
+  ],
+  "license": "ISC",
+  "author": "Rajshree Kavia",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
